@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6210 64-bit) (preloaded format=xelatex 2017.2.23)  9 AUG 2017 17:17
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6210 64-bit) (preloaded format=xelatex 2017.2.23)  9 AUG 2017 17:43
 entering extended mode
 **./SDD.tex
 (SDD.tex
@@ -1140,7 +1140,7 @@ File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 LaTeX Warning: Unused global option(s):
     [12.5t].
 
-No file SDD.aux.
+(SDD.aux)
 \openout1 = `SDD.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
@@ -1189,12 +1189,10 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 60.
 LaTeX Info: Redefining \pageref on input line 60.
 LaTeX Info: Redefining \nameref on input line 60.
+ (SDD.out) (SDD.out)
 \@outlinefile=\write5
 \openout5 = `SDD.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
 
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1318,19 +1316,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 
-]
+] (SDD.toc)
 \tf@toc=\write6
 \openout6 = `SDD.toc'.
 
  [1
 
-]
+] (SDD.lof)
 \tf@lof=\write7
 \openout7 = `SDD.lof'.
 
  [2
 
-]
+] (SDD.lot)
 \tf@lot=\write8
 \openout8 = `SDD.lot'.
 
@@ -1392,25 +1390,16 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 250.
  (SDD.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 250.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 250.
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                SDD
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'SDD.run.xml'.
 \openout1 = `SDD.run.xml'.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 250.
  ) 
 Here is how much of TeX's memory you used:
- 27837 strings out of 427899
- 511983 string characters out of 3148959
- 978477 words of memory out of 3000000
- 31549 multiletter control sequences out of 15000+200000
+ 27859 strings out of 427899
+ 512222 string characters out of 3148959
+ 979477 words of memory out of 3000000
+ 31559 multiletter control sequences out of 15000+200000
  6875 words of font info for 41 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  42i,11n,66p,10364b,3426s stack positions out of 5000i,500n,10000p,200000b,50000s
