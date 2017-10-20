@@ -1,5 +1,5 @@
-### NOTE
-This folder of two-column CVs has been cloned from https://github.com/ntd/tccv.
+### Note 
+This folder of two-column CVs has been cloned from <a href="https://github.com/ntd/tccv" target="_blank">https://github.com/ntd/tccv</a>.
 
 ## Overview
 
