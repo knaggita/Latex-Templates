@@ -1,3 +1,6 @@
+### NOTE
+This folder of two-column CVs has been cloned from https://github.com/ntd/tccv.
+
 ## Overview
 
 **tccv** (two columns curriculum vitae) is a LaTeX class inspired by the
